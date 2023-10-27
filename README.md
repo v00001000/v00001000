@@ -1,4 +1,4 @@
-# Hi there 👋
+👋
 
 ##### https://github.com/v00001000/pins ⚡
 
